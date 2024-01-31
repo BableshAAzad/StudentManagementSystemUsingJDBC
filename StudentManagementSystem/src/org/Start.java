@@ -18,7 +18,7 @@ public class Start {
 				System.out.println("Press 3 to DISPLAY student : ");
 				System.out.println("Press 4 to UPDATE student : ");
 				System.out.println("Press 5 to Search student : ");
-				System.out.println("Press 6 to exit app :");
+				System.out.println("Press 6 to exit app : :");
 				int c = Integer.parseInt(br.readLine());
 				if (c == 1) {
 					// add student
